@@ -16,3 +16,6 @@ description: Dynamics of Human Engagement
       <li><a href="{{site.baseurl}}/Chapter3">Chapter 3</a></li>
    
    
+### href="{{site.baseurl}}/Chapter1"
+### href="{{site.baseurl}}/Chapter2"
+### href="{{site.baseurl}}/Chapter3"
