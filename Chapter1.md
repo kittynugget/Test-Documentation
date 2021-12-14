@@ -119,3 +119,5 @@ The **Key** column of the **Import Fields** window allows the user to specify wh
 The **Special** column allows for fields to be used in certain special features in Rezonator, such as Participant and Translation.
 
 Finally, the **Field Info** window contains a breakdown of the imported fields on a technical level. It is a read-only window displaying how many tokens were found in each field, how consistently that field was marked in the file, and whether or not it contains any spaces.
+
+<a href="{{site.baseurl}}/Chapter2">Chapter 2: Overview of Main Screen</a>

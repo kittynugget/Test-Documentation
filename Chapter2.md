@@ -277,3 +277,5 @@ The **Window** option will open another dropdown:
  * The **Help** option will toggle the display of the **Help Menu** on the right side of the **Main Screen**.
  * The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
  * The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
+
+<a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a>
