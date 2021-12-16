@@ -2,6 +2,7 @@
 title: Navigating Main Screen
 description: 
 ---
+**Previous page:** <u><a href="{{site.baseurl}}/Chapter1">Chapter 1: How to start and manage files</a></u>
 The main screen of Rezonator is our visual representation of the text imported delineated into tokens and units. 
 
 ![image45](https://user-images.githubusercontent.com/34769184/132994278-f4c43f7d-36f2-4c4b-a626-cf16ab463f9e.png)
@@ -276,7 +277,5 @@ The **Window** option will open another dropdown:
  * The **Help** option will toggle the display of the **Help Menu** on the right side of the **Main Screen**.
  * The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
  * The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
-
-**Previous page:** <u><a href="{{site.baseurl}}/Chapter1">Chapter 1: How to start and manage files</a></u>
  
 **Next page:** <u><a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a></u>
