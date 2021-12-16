@@ -27,9 +27,6 @@ You can also immediately incorporate a new translation on your locale. Under the
 ### 1.3	Opening a REZ File
 
   Rezonator is distributed with a set of native REZ files which allow users to start working directly on the Santa Barbara Corpus of Spoken American English. In order to Open a REZ file, select the option **Open** from the Opening screen. You will be prompted to a screen and asked to select the REZ file of choice.
-At any point during the working session, selecting the **Exit** option from the File dropdown will exit the current Rezonator session and bring the user back to the Opening Screen.
-
-File Access - opening the Default Rez file that come with each Rezonator EXE
 
 ### 1.4	Importing a New File
 
