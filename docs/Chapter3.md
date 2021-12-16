@@ -74,12 +74,9 @@ While in Track Mode, the List Window will display a list of all the Trails you h
 
 A way to Focus a Trail Chain is with a **Mouse Click** on the chain’s row within the **Trail Chain List**
 
-![image51](https://user-images.githubusercontent.com/34769184/130832283-8a094cff-b723-4eae-ac87-07f714477125.png)
-
 The **Pick Toggle** Button will add that Trail to the list of chains shown on the Filter Screen.
 
-
-More options for Trails can be accessed with a **Right Mouse Click** on a trail’s row (CTRL & Mouse Click on Mac) INSERT IMAGE
+More options for Trails can be accessed with a **Right Mouse Click** on a trail’s row (CTRL & Mouse Click on Mac)
   - **Rename** lets you input a string to name the selected Trail Chain.
   - **Recolor** lets you choose a new color for the selected Trail Chain.
   - **Delete** will delete all of the links of the selected Trail Chain, eliminating the whole chain.
@@ -87,9 +84,10 @@ More options for Trails can be accessed with a **Right Mouse Click** on a trail�
 With a Trail focused, the Contents Window will display the contents of the focused Trail
   - The Contents Window (One-To-Many) displays the individual Words within a Trail Chain, showing their **Unit Sequence, Token Order,** and **Text**, and the remaining three columns display entry level fields that the user can change.
   - The Contents Window (One-To-One) displays the chain level fields that the user selects and the values stored for those fields in each Trail.
-  - The Contents of any Trail Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
   - Trails can be tagged at both the one-to-many and one-to-one level. To apply a tag to a trail, set a column in the Contents Window to view a field with a tag set. You can change a column’s field by clicking on the column header and choosing **Select field** from the dropdown. 
     - **Note**: while in one-to-many view, the first three visible columns in the Trail Contents Window cannot be changed
+
+The Contents of any Trail Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
 
 ## 3.3 Resonance Mode
 
@@ -174,7 +172,8 @@ More options for Rez Chains can be accessed with a **Right Mouse Click** on a ch
 
  - The Contents Window (One-To-Many) displays the individual Words within a Resonance Chain, showing their **Unit Sequence, Token Order**, and **Text**, and the remaining three columns display entry level fields that the user can change.
  - The Contents Window (One-To-One) displays the chain level fields that the user selects and the values stored for those fields in each Resonance Chain.
- - The Contents of any Resonance Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
+
+The Contents of any Resonance Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
 
 ## 3.4 How to Make Stacks
 
@@ -220,8 +219,7 @@ With a Stack focused, the **Contents Window** will display the contents of the f
   - The Contents Window (One-to-many) displays the individual units within a Stack, showing their fields and tags (By default, the visible fields for one-to-many are **unitSeq, participant**, and **utterance**, and **gapUnits**).
   - The Contents Window (One-to-one) displays the fields and tags for each Stack as a whole.
 
-The Contents of any Stack can be sorted using the **Sort Buttons** next to the column’s name.
-
+The Contents of any Stack can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
 ## 3.5 How to Make Chunks
 
   - **Note:** Chunks do not have a single Mode attributed to them, and are instead accessible in any Mode.
