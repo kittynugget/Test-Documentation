@@ -8,15 +8,12 @@ description:
 
 ![unnamed](https://user-images.githubusercontent.com/77072787/133002427-7aa061ac-c1ed-4c3f-8037-d204a75bd726.png)
 
-The main options are:
+**The main options are:
 
-Open, allows to open a REZ file
-
-Import, different formats are supported and described in depth later on.
-
-Help, opens the portal to our help resources
-
-The language option lets you choose different languages supported by Rezonator. 
+* Open: allows to open a REZ file
+* Import: different formats are supported and described in depth later on.
+* Help: opens the portal to our help resources
+* The language option lets you choose different languages supported by Rezonator. 
 
 ### 1.2	Select a user interface language
 
