@@ -191,26 +191,22 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
 ### 2.4.3 View Dropdown
 
-The **Window** option will open another dropdown:  
-
+- The **Window** option will open another dropdown:  
  - The **Nav** option will open another dropdown:  
    - **Left** will open/close the **List Window**  
    - **Right** will open/close the **Contents Window**  
    - **Nav** will open/close the **List Window** and the **Contents Window** 
    - **Tools** will open/close the **Tools Pane**  
    - **All** will open/close the **List and Contents window, and the Tools Pane.**   
- - **Grid** will send the user to the **Grid Screen**.
- 
- The **Justify** option will open another dropdown:  
+ - **Grid** will send the user to the **Grid Screen**. 
+ - The **Justify** option will open another dropdown:  
   - **Left** will justify the **Tokens** to the left side of the screen.  
   - **Right** will justify the **Tokens** to the right side of the screen. 
   - **Center** will justify the **Tokens** to the center of the screen. 
- 
  **Prose** option will open another dropdown:  
   - **Prose** will set the Tokens in a prose structure.  
   - **Grid** will set the Tokens in a grid structure. 
-
- The **Hide** option will open another dropdown:  
+- The **Hide** option will open another dropdown:  
   - **Trail** will toggle the visibility of all Trail chains in the Rez file.
   - **Rez** will toggle the visibility of all Rez chains in the Rez file.
   - **Stack** will toggle the visibility of all Stack in the Rez file.
@@ -218,64 +214,52 @@ The **Window** option will open another dropdown:
 
 ### 2.4.4 Filter Dropdown
        
-  The **Filter** option will toggle on/off the **Filter Screen** (if any chains are **Picked** to be in the filter)
-  The **Pick** option will open another dropdown:
+ - The **Filter** option will toggle on/off the **Filter Screen** (if any chains are **Picked** to be in the filter)
+ - The **Pick** option will open another dropdown:
    - **Rez** will **Pick** all Rez chains to be in the Filter
    - **Trail** will **Pick** all Trail chains to be in the Filter
    - **Stack** will **Pick** all Stacks to be in the Filter
-  The **Context** option will open another dropdown:
+ - The **Context** option will open another dropdown:
    - **Above** will toggle the display of the Lines before the Picked Lines in the Filter Screen.
    - **Between** will toggle the display of the Lines in between the Picked Lines in the Filter Screen.
    - **Below** will toggle the display of the Lines after the Picked Lines in the Filter Screen.
-  The **Clear** option will unpick all **Picked Chains**, clearing the Filter Screen, and sending the user back to the **Main Screen** if the Filter Screen was open
+ - The **Clear** option will unpick all **Picked Chains**, clearing the Filter Screen, and sending the user back to the **Main Screen** if the Filter Screen was open
 
 ## 2.4.5 Tools Dropdown
 
- The **Search** option will open another dropdown:
-
+ - The **Search** option will open another dropdown:
   - **Keyword** will open a dialog box for Rezonator’s **Search by Keyword** function
   - **Clear** will turn off the highlighting for the **Actively Searched Keywords** that occurs on the Main Screen, if (if a Search has been done in the Rezonator session).
-
- The **Track** option will set the current **Mode** to **Track Mode**
-
- The **Resonance** option will set the current **Mode** to **Resonance Mode**
-
- The **Stack** option will open another dropdown:
-
+ - The **Track** option will set the current **Mode** to **Track Mode**
+ - The **Resonance** option will set the current **Mode** to **Resonance Mode**
+ - The **Stack** option will open another dropdown:
   - The **Stacker** option will open another dropdown:
-
    - The **Turn** option will create a series of **Stacks** in the document using the **Unit** field marked as **Turn Delimiter**
    - The **Random** option will create a series of **Stacks** across the entire document
    - The **Sentence** option will create a series of **Stacks** using the **Unit** field makred as the **Participant**
-
   - The **Clip all stacks** option will create a folder to save a series of **Clip** files for each **Stack** in the document
 
 ### 2.4.6 Settings Dropdown
 
- The **User** option allows the user to set a **Username** for the current chain creator.
+ - The **User** option allows the user to set a **Username** for the current chain creator.
 
- The **Zoom** option will open another dropdown: 
-
+ - The **Zoom** option will open another dropdown: 
    - **Zoom-in** will increase the **Font Size, Line Height, and Column Width**.
    - **Zoom-out** will decrease the **Font Size, Line Height, and Column Width**.
    - **Wide** will increase **Column Width**.
    - **Narrow** will decrease **Column Width**.
    - **Tall** will increase the **Line Height**.
    - **Short** will decrease the **Line Height**.
-
- The **Theme** option will toggle the current **Display Theme** between **Light** and **Dark**.
-
- The **Language** option will open another dropdown, allowing the user to set their **User language**
-
- The **Autosave** option will open another dropdown, allowing the user to set the timing intervals at which Rezonator will **Autosave** the current Rezonator session, or to disable Autosaving.
-
- The **Advanced** option will open another dropdown:
+ - The **Theme** option will toggle the current **Display Theme** between **Light** and **Dark**.
+ - The **Language** option will open another dropdown, allowing the user to set their **User language**
+ - The **Autosave** option will open another dropdown, allowing the user to set the timing intervals at which Rezonator will **Autosave** the current Rezonator session, or to disable Autosaving.
+ - The **Advanced** option will open another dropdown:
   - The **Developer** option will toggle the visibility of developer variables in the **Main Screen**
 
 ### 2.4.7 Help Dropdown
 
- The **Help** option will toggle the display of the **Help Menu** on the right side of the **Main Screen**.
- The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
- The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
+ - The **Help** option will toggle the display of the **Help Menu** on the right side of the **Main Screen**.
+ - The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
+ - The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
  
 **Next page:** <u><a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a></u>
