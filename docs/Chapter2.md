@@ -33,7 +33,7 @@ The New Word option allows you to insert a new word into the discourse. Selectin
 
  Tags can be further managed in the **Tag** pane on the Navigation window
 
-### 2.1.4 Text Direction
+### 2.1.2 Text Direction
 
  Two forms of text direction are currently supported in Rezonator, **Right-To-Left** and **Left-To-Right**. The text direction of the text is chosen by default based on the type of characters imported. If they require Right-To-Left then it will be enabled by default. This option can always be toggled in by using the “L” key, or using the view drop down.
 
