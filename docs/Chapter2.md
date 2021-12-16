@@ -3,6 +3,7 @@ title: Navigating Main Screen
 description: 
 ---
 **Previous page:** <u><a href="{{site.baseurl}}/Chapter1">Chapter 1: How to start and manage files</a></u>
+
 The main screen of Rezonator is our visual representation of the text imported delineated into tokens and units. 
 
 ![image45](https://user-images.githubusercontent.com/34769184/132994278-f4c43f7d-36f2-4c4b-a626-cf16ab463f9e.png)
