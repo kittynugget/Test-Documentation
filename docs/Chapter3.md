@@ -6,20 +6,24 @@ Rezonator features three different working modes that are designed to perform sp
 
 ## 3.1 Tag Mode
 
+**Tag Mode can be used to quickly apply tags to **Tokens, Chunks, Units, Chains, Entries**, and **Tree Links**.**
+
+### 3.2.1 Functionality of Tag Mode
+
 Tag Mode can be activated by clicking the **Tag Mode** button in the **Tool** flyout.
 
 ![tag image](https://user-images.githubusercontent.com/46977535/146447595-ca6611e5-ff74-4633-98a3-ace075a419a7.png)
 
-Tag Mode can be used to quickly apply tags to **Tokens, Chunks, Units, Chains, Entries**, and **Tree Links**. To view all fields and their respective tags, click on the **Tag** pane. While in the Tag pane, clicking on a **Field** in the left pane will reveal all of its **Tags** in the right pane.
+To view all fields and their respective tags, click on the **Tag** pane. While in the Tag pane, clicking on a **Field** in the left pane will reveal all of its **Tags** in the right pane.
 
-To view all of the **Fields** and **Tags** that belong to a **Token, Unit,** or **Tree Link**, enable Word Tip by selecting it from the **View** dropdown in the Menu Bar. To start applying quick tags, select a **Field** in the left pane and also select one of its **Tags** in the right pane. With Word Tip enabled, hover the mouse over a **Token, Unit,** or **Tree Link** and see the highlighted field that has been selected in the Tag pane. Clicking on the Token/Unit/Tree Link will overwrite the selected field’s tag value with the tag selected in the Tag pane.
+To view all of the **Fields** and **Tags** that belong to a hovered **Token**, **Unit**, or **Tree Link**, enable Word Tip by selecting it from the **View** dropdown in the Menu Bar. To start applying quick tags, select a **Field** in the left pane and also select one of its **Tags** in the right pane. With Word Tip enabled, hover the mouse over a **Token, Unit,** or **Tree Link** and see the highlighted field that has been selected in the Tag pane. Clicking on the Token/Unit/Tree Link will overwrite the selected field’s tag value with the tag selected in the Tag pane.
 
 
 ## 3.2 Track Mode
 
 **Track Mode** is one of the two **Annotation Modes** of Rezonator, the other being **Resonance Mode**. The main purpose of Track Mode is to allow the user to “track” references of subjects across the discourse, through the use of **Trails**.
 
-### 3.2.1 Activating Track Mode
+### 3.2.1 Functionality of Track Mode
 
 Track Mode can be activated by a **Mouse Click** on the **Track Tool Pane Button:**
 
@@ -27,8 +31,6 @@ Track Mode can be activated by a **Mouse Click** on the **Track Tool Pane Button
 
 Alternatively, Trail Mode can be activated by pressing the “T” Key on your keyboard.
 When Trail Mode is active, the Trail Tool Pane Button will be highlighted.
-  
-### 3.2.2 Functionality of Track Mode
 
 The most important feature of Trail Mode is the creation of Trail Chains. A Trail is a sequential set of words connected by **Links**. A Trail looks like this:
 
@@ -49,7 +51,7 @@ To **Delete a Link** within a Trail Chain, **Right Mouse Click** on the word you
 
 Alternatively, you can Left Mouse Click on the word you want to remove from the Trail Chain, then press the **Delete Key** on your keyboard.
 
-### 3.2.3 Functionality of the Track Tab
+### 3.2.2 Functionality of the Track Tab
 
 When in **Track Mode**, the **Trail Chain List** can be found in the top 1/3rd of the window.
 
@@ -63,25 +65,23 @@ The Visibility Button (eyeball), when activated by a Left Mouse Click, will togg
 
 ![image84](https://user-images.githubusercontent.com/34769184/130831676-6f8ad1e6-7757-4c43-a316-c14c60083feb.png)![image3](https://user-images.githubusercontent.com/34769184/130834391-935efef3-44c4-498f-afd1-24894203dec8.png)
 
-### 3.2.4 Functionality of the Trail Chain List
-
-1. While in Track Mode, the List Window will display a list of all the Trails you have created, as shown here:
+While in Track Mode, the List Window will display a list of all the Trails you have created, as shown here:
 
 ![image102](https://user-images.githubusercontent.com/34769184/130832167-802a3a62-5786-46b8-be0b-14a66fb5b0f1.png)
 
-2. A way to Focus a Trail Chain is with a **Mouse Click** on the chain’s row within the **Trail Chain List**
+A way to Focus a Trail Chain is with a **Mouse Click** on the chain’s row within the **Trail Chain List**
 
 ![image51](https://user-images.githubusercontent.com/34769184/130832283-8a094cff-b723-4eae-ac87-07f714477125.png)
 
-3. The **Pick Toggle** Button will add that Trail to the list of chains shown on the Filter Screen.
+The **Pick Toggle** Button will add that Trail to the list of chains shown on the Filter Screen.
 
 
-4. More options for Trails can be accessed with a **Right Mouse Click** on a trail’s row (CTRL & Mouse Click on Mac) INSERT IMAGE
+More options for Trails can be accessed with a **Right Mouse Click** on a trail’s row (CTRL & Mouse Click on Mac) INSERT IMAGE
   * **Rename** lets you input a string to name the selected Trail Chain.
   * **Recolor** lets you choose a new color for the selected Trail Chain.
   * **Delete** will delete all of the links of the selected Trail Chain, eliminating the whole chain.
 
-5. With a Trail focused, the Contents Window will display the contents of the focused Trail
+With a Trail focused, the Contents Window will display the contents of the focused Trail
   * The Contents Window (One-To-Many) displays the individual Words within a Trail Chain, showing their **Unit Sequence, Token Order,** and **Text**, and the remaining three columns display entry level fields that the user can change.
   * The Contents Window (One-To-One) displays the chain level fields that the user selects and the values stored for those fields in each Trail.
   - The Contents of any Trail Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
@@ -91,7 +91,7 @@ The Visibility Button (eyeball), when activated by a Left Mouse Click, will togg
 
 **Resonance Mode** is one of the two **Annotation Modes** of Rezonator, the other being **Trail Mode**. The main purpose of Resonance Mode is to allow the user to visualize **Resonance**, through the use of **Resonance Chains**.
 
-### 3.3.1 Activating Resonance Mode
+### 3.3.1 Functionality of Resonance Mode
 
 Resonance Mode can be activated by a **Mouse Click** on the **Resonance Tool Pane Button**:
 
@@ -99,14 +99,12 @@ Resonance Mode can be activated by a **Mouse Click** on the **Resonance Tool Pan
 
 Alternatively, Resonance Mode can be activated by pressing the **“R” Key** on your keyboard.
 When Resonance Mode is active, the Resonance Tool Pane Button will be highlighted.
-  
-### 3.3.2 Functionality of Resonance Mode
 
 The most important feature of Resonance Mode is the creation of Resonance Chains. A Resonance Chain is a sequential set of words connected by **Links**. A Resonance Chain looks like this:
 
 ![image99](https://user-images.githubusercontent.com/34769184/130874479-f342bfbf-5d45-4a56-a951-b6c8e8470194.png)
 
-Note: Links within a Resonance Chain will vertically **align**, if possible.
+  - **Note:** Links within a Resonance Chain will vertically **align**, if possible.
 
 You can begin a Resonance Chain by Left Mouse Clicking on a **Word** in the discourse, creating the first Link in the chain
 
@@ -133,7 +131,7 @@ As noted above, Resonance Chains will automatically Align when possible. This is
 
 ![image94](https://user-images.githubusercontent.com/34769184/130874872-01047324-8444-4335-8b2e-8f96a2987d7b.png)
 
-### 3.3.3 Functionality of the Resonance Chain List
+### 3.3.2 Functionality of the Resonance Tab
 
 **Resonance Chain List** allows users to visualize the active **Resonance Chains** and their contents.
 There are 2 buttons on the lines in **Resonance Mode: Filter Chains Button** & **Visibility Button**. The Filter Chains Button (filter cone), when activated by a Left Mouse Click, will add all active Resonance Chains to the list of chains shown on the **Filter Screen**.
@@ -224,7 +222,7 @@ More options for Stacks can be accessed with a **Right Mouse Click** on a chain�
 
 ## 3.5 How to Make Chunks
 
-**Note: Chunks do not have a single Mode attributed to them, and are instead accessible in any Mode.**
+  - **Note:** Chunks do not have a single Mode attributed to them, and are instead accessible in any Mode.
 
 ### 3.5.1 Accessing Chunk Creation
 
