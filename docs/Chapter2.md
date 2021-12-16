@@ -20,22 +20,18 @@ The Workspace is a malleable area where the user can view token and unit level f
 
 ### 2.1.1 Word Editing
 
-- **Word Editing** allows you to modify the words or tokens on the main screen, allowing for more annotation options.
-- Use cases of Word Editing include splitting compound words to annotate the pieces separately, and inserting placeholder or implicit words like the Zero morpheme.
+**Word Editing** allows you to modify the words or tokens on the main screen, allowing for more annotation options. Use cases of Word Editing include splitting compound words to annotate the pieces separately, and inserting placeholder or implicit words like the Zero morpheme.
 
-### 2.1.2 Access the Word Edit Dropdown
-
-- To begin Word Editing, **Right Mouse Click** on a new word/token in the Main Screen. This will open a dropdown menu containing the options **New Token,  Delete Token,** and **Tag**. 
+To begin Word Editing, **Right Mouse Click** on a new word/token in the Main Screen. This will open a dropdown menu containing the options **New Token,  Delete Token,** and **Tag**. 
  - **Note:** When the selected word is in a Chain, this dropdown will have an additional option called **Delete Link**. This does not pertain to Word Editing.
 
-### 2.1.3 Functionality of the Word Edit Dropdown
-
-- The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options <0>, <ZERO>, <PRO>, and **Custom**.
+The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options <0>, <ZERO>, <PRO>, and **Custom**.
  - <0>, <ZERO>, and <PRO> are all default new words. Selecting one of these defaults will open the New Word Pop-up Window, with the text input filled in with the selected word. Selecting the Custom option will open this window as well, with the text input blank.
  - With the new word typed in the text input box, clicking the “OK” button will insert the New Word before the selected word. Toggling the **Insert Before** button will have the New Word inserted after the selected word.
 - The **Delete Token** option will delete the selected token.
 - The **Tag** option will allow you to tag the **token** or the chain the token is associated with on both the **entry** and **chain** level.
- * Tags can be further managed in the **Tag** pane on the Navigation window
+
+ Tags can be further managed in the **Tag** pane on the Navigation window
 
 ### 2.1.4 Text Direction
 
