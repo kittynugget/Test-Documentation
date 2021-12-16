@@ -8,7 +8,7 @@ description:
 
 ![unnamed](https://user-images.githubusercontent.com/77072787/133002427-7aa061ac-c1ed-4c3f-8037-d204a75bd726.png)
 
-**The main options are:
+**The main options are:**
 
 * Open: allows to open a REZ file
 * Import: different formats are supported and described in depth later on.
