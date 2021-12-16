@@ -20,21 +20,21 @@ The Workspace is a malleable area where the user can view token and unit level f
 
 ### 2.1.1 Word Editing
 
-1. **Word Editing** allows you to modify the words or tokens on the main screen, allowing for more annotation options.
-2. Use cases of Word Editing include splitting compound words to annotate the pieces separately, and inserting placeholder or implicit words like the Zero morpheme.
+- **Word Editing** allows you to modify the words or tokens on the main screen, allowing for more annotation options.
+- Use cases of Word Editing include splitting compound words to annotate the pieces separately, and inserting placeholder or implicit words like the Zero morpheme.
 
 ### 2.1.2 Access the Word Edit Dropdown
 
-1. To begin Word Editing, **Right Mouse Click** on a new word/token in the Main Screen. This will open a dropdown menu containing the options **New Token,  Delete Token,** and **Tag**. 
- * **Note:** When the selected word is in a Chain, this dropdown will have an additional option called **Delete Link**. This does not pertain to Word Editing.
+- To begin Word Editing, **Right Mouse Click** on a new word/token in the Main Screen. This will open a dropdown menu containing the options **New Token,  Delete Token,** and **Tag**. 
+ - **Note:** When the selected word is in a Chain, this dropdown will have an additional option called **Delete Link**. This does not pertain to Word Editing.
 
 ### 2.1.3 Functionality of the Word Edit Dropdown
 
-1. The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options <0>, <ZERO>, <PRO>, and **Custom**.
- * <0>, <ZERO>, and <PRO> are all default new words. Selecting one of these defaults will open the New Word Pop-up Window, with the text input filled in with the selected word. Selecting the Custom option will open this window as well, with the text input blank.
- * With the new word typed in the text input box, clicking the “OK” button will insert the New Word before the selected word. Toggling the **Insert Before** button will have the New Word inserted after the selected word.
-2. The **Delete Token** option will delete the selected token.
-3. The **Tag** option will allow you to tag the **token** or the chain the token is associated with on both the **entry** and **chain** level.
+- The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options <0>, <ZERO>, <PRO>, and **Custom**.
+ - <0>, <ZERO>, and <PRO> are all default new words. Selecting one of these defaults will open the New Word Pop-up Window, with the text input filled in with the selected word. Selecting the Custom option will open this window as well, with the text input blank.
+ - With the new word typed in the text input box, clicking the “OK” button will insert the New Word before the selected word. Toggling the **Insert Before** button will have the New Word inserted after the selected word.
+- The **Delete Token** option will delete the selected token.
+- The **Tag** option will allow you to tag the **token** or the chain the token is associated with on both the **entry** and **chain** level.
  * Tags can be further managed in the **Tag** pane on the Navigation window
 
 ### 2.1.4 Text Direction
@@ -86,6 +86,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 ### 2.3.1 Unit
  **Left Pane**: 
  Displays a list of all the units within the current file. Units can be selected here for further analysis in the right pane.
+
  **Right Pane**: 
   * **One-To-One**: Shows unit tags in relation to the unit on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows token tags in relation to the unit that is selected in the left pane, based on the selected fields in the column headers.
@@ -94,6 +95,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
  **Left Pane**: 
  Displays the list of all the chunks within the current file. Chunks can be selected here for further analysis in the right pane.
+
  **Right Pane**: 
   * **One-To-One**: Shows chunk tags in relation to the chunk on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows token tags in relation to the chunk that is selected in the left pane, based on the selected fields in the column headers.
@@ -102,6 +104,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
  **Left Pane**: 
  Displays the list of all the units within the current file.
+
  **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the unit tag that the user selects as their current translation.
 
@@ -109,6 +112,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
  **Left Pane**: 
  Displays the list of all the stacks within the current file. Stacks can be selected here for further analysis in the right pane.
+
  **Right Pane**: 
   * **One-To-One**: Shows chain tags in relation to the stack on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows chain entry tags in relation to the stack that is selected in the left pane, based on the selected fields in the column headers.
@@ -117,6 +121,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
  
  **Left Pane**: 
  Displays the list of all the trails within the current file. Trails can be selected here for further analysis in the right pane.
+
  **Right Pane**: 
   * **One-To-One**: Shows chain tags in relation to the trail on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows chain entry tags in relation to the trail that is selected in the left pane, based on the selected fields in the column headers.
@@ -125,6 +130,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
  **Left Pane**: 
  Displays the list of all the cliques within the current file. Cliques can be selected here for further analysis in the right pane.
+
  **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the chain pushing order for alignment. 
 
@@ -132,6 +138,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
  **Left Pane**: 
  Displays the list of all the trees within the current file. Trees can be selected here for further analysis in the right pane.
+
  **Right Pane**: 
   * **One-To-One / One-To-Many**: the selected tree is shown broken out into leaves that can be linked together and annotated into a tree.
 
@@ -139,6 +146,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
  **Left Pane**: 
  Displays the list of all the shows within the current file. Shows can be selected here for further analysis in the right pane.
+
  **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the user the list of stacks within the selected show. As well as allows the user to add more stacks to the show, or start/stop the show.
 
@@ -146,20 +154,18 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 
  **Left Pane**: 
  Displays the list of all the fields within the current file. Fields can be selected here to edit their tag set in the right pane.
+
  **Right Pane**: 
  Has a selection box that allows the user to change which type of tags they are viewing
 
  **DOC**
   - **One-To-One**: Allows the user to edit **Unit** level tags
   - **One-To-Many**: Allows the user to edit **Token** level tags 
-
  **Chain**
   - **One-To-One**: Allows the user to edit **Chain** level tags
   - **One-To-Many**: Allows the user to edit **Entry** level tags
-
  **Chunk**
   - **One-To-One / One-To-Many**: Allows the user to edit **Chunk** level tags
-
  **Link**
   - **One-To-One / One-To-Many**: Allows the user to edit **Link** level tags
 
