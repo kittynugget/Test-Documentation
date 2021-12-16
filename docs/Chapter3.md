@@ -196,7 +196,7 @@ In order to **Refocus** a previous Stack, you must Left Mouse Click on a Speaker
 
 To **Delete a Link** within a Stack, Left Mouse Click on the unit you want to remove from the Stack, then press the **Delete Key** on your keyboard. This will remove the selected unit from the focused Stack.
 
-### 3.4.3 Functionality of the Stack Tab
+### 3.4.2 Functionality of the Stack Tab
 
 There are 2 buttons on the Tab: **Filter Chains Button**, & **Visibility Button**
   - The Filter Chains Button (filter cone), when activated by a Left Mouse Click, will add all Stacks to the list of chains shown on the **Filter Screen**.
