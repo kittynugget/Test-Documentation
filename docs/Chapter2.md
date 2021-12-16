@@ -39,11 +39,11 @@ The Workspace is a malleable area where the user can view token and unit level f
 
 ### 2.1.4 Text Direction
 
-Two forms of text direction are currently supported in Rezonator, **Right-To-Left** and **Left-To-Right**. The text direction of the text is chosen by default based on the type of characters imported. If they require Right-To-Left then it will be enabled by default. This option can always be toggled in by using the “L” key, or using the view drop down.
+ Two forms of text direction are currently supported in Rezonator, **Right-To-Left** and **Left-To-Right**. The text direction of the text is chosen by default based on the type of characters imported. If they require Right-To-Left then it will be enabled by default. This option can always be toggled in by using the “L” key, or using the view drop down.
 
 ## 2.2 Tool Pane
 
-The Tool pane consist of 7 sections
+ The Tool pane consist of 7 sections
 
 ### 2.2.1 Tools  
  
@@ -53,7 +53,7 @@ The Tool pane consist of 7 sections
 
 ### 2.2.2 Filter
 
- * Displays whether a filter is actively being viewed and can be used to toggle it on and off.
+Displays whether a filter is actively being viewed and can be used to toggle it on and off.
 
 ### 2.2.3 Context
 
@@ -75,139 +75,142 @@ The Tool pane consist of 7 sections
 
 ### 2.2.6 Audio
 
-  * The Audio button here toggles the audio pane where playback can be managed.
+ The Audio button here toggles the audio pane where playback can be managed.
 
 ### 2.2.7 Help
 
-  * Help, opens the portal to our help resources
+ Help, opens the portal to our help resources
 
 ## 2.3	Navigation Window 
 
 ### 2.3.1 Unit
- * **Left Pane**: Displays a list of all the units within the current file. Units can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays a list of all the units within the current file. Units can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One**: Shows unit tags in relation to the unit on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows token tags in relation to the unit that is selected in the left pane, based on the selected fields in the column headers.
 
 ### 2.3.2 Chunk
 
- * **Left Pane**: Displays the list of all the chunks within the current file. Chunks can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays the list of all the chunks within the current file. Chunks can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One**: Shows chunk tags in relation to the chunk on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows token tags in relation to the chunk that is selected in the left pane, based on the selected fields in the column headers.
 
 ### 2.3.3 Translate
 
- * **Left Pane**: Displays the list of all the units within the current file.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays the list of all the units within the current file.
+ **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the unit tag that the user selects as their current translation.
 
 ### 2.3.4 Stack
 
- * **Left Pane**: Displays the list of all the stacks within the current file. Stacks can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays the list of all the stacks within the current file. Stacks can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One**: Shows chain tags in relation to the stack on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows chain entry tags in relation to the stack that is selected in the left pane, based on the selected fields in the column headers.
 
 ### 2.3.5 Track
  
- * **Left Pane**: Displays the list of all the trails within the current file. Trails can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays the list of all the trails within the current file. Trails can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One**: Shows chain tags in relation to the trail on the same row, based on the selected fields in the column headers.
   * **One-To-Many**: Shows chain entry tags in relation to the trail that is selected in the left pane, based on the selected fields in the column headers.
 
 ### 2.3.7 Clique
 
- * **Left Pane**: Displays the list of all the cliques within the current file. Cliques can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays the list of all the cliques within the current file. Cliques can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the chain pushing order for alignment. 
 
 ### 2.3.8 Tree
 
- * **Left Pane**: Displays the list of all the trees within the current file. Trees can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays the list of all the trees within the current file. Trees can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One / One-To-Many**: the selected tree is shown broken out into leaves that can be linked together and annotated into a tree.
 
 ### 2.3.9 Show
 
- * **Left Pane**: Displays the list of all the shows within the current file. Shows can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: 
+ Displays the list of all the shows within the current file. Shows can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the user the list of stacks within the selected show. As well as allows the user to add more stacks to the show, or start/stop the show.
 
 ### 2.3.10 Tag
 
- * **Left Pane**: Displays the list of all the fields within the current file. Fields can be selected here to edit their tag set in the right pane.
- * **Right Pane**: Has a selection box that allows the user to change which type of tags they are viewing
+ **Left Pane**: 
+ Displays the list of all the fields within the current file. Fields can be selected here to edit their tag set in the right pane.
+ **Right Pane**: 
+ Has a selection box that allows the user to change which type of tags they are viewing
 
- * **DOC**
+ **DOC**
   - **One-To-One**: Allows the user to edit **Unit** level tags
   - **One-To-Many**: Allows the user to edit **Token** level tags 
 
- * **Chain**
-
+ **Chain**
   - **One-To-One**: Allows the user to edit **Chain** level tags
   - **One-To-Many**: Allows the user to edit **Entry** level tags
 
- * **Chunk**
-
+ **Chunk**
   - **One-To-One / One-To-Many**: Allows the user to edit **Chunk** level tags
 
- * **Link**
-
+ **Link**
   - **One-To-One / One-To-Many**: Allows the user to edit **Link** level tags
 
 ### 2.3.11 Search
 
- * **Left Pane**: Displays the list of all the searches within the current file. Searches can be selected here for further analysis in the right pane.
- * **Right Pane**: 
+ **Left Pane**: Displays the list of all the searches within the current file. Searches can be selected here for further analysis in the right pane.
+ **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the user all the found instances of the selected searched words, along with prior and post context to the found words.
 
 ## 2.4	Menu Bar 
 
 ### 2.4.1 File Dropdown
 
- * The **Save** option will save the current **Rez File**, and all of the changes that have been since last saving or opening. This option will overwrite the Rez File’s current location.
- * The **Save As** option functions identically to the **Save** button, except that the Save As button does not overwrite the current Rez File. This option will have the user choose a file location and a file name.
- * The **Media** option will have the user choose **Audio File** (.OGG) to open up with the current Rezonator session.
- * The **Export** option will export the current Rez File as a collection of CSV files. The user will be prompted to provide a file location and file name.
- * The **Import**
-
+ - The **Save** option will save the current **Rez File**, and all of the changes that have been since last saving or opening. This option will overwrite the Rez File’s current location.
+ - The **Save As** option functions identically to the **Save** button, except that the Save As button does not overwrite the current Rez File. This option will have the user choose a file location and a file name.
+ - The **Media** option will have the user choose **Audio File** (.OGG) to open up with the current Rezonator session.
+ - The **Export** option will export the current Rez File as a collection of CSV files. The user will be prompted to provide a file location and file name.
+ - The **Import** option exits the current file to allow the user to import a new file
+ - The **Exit** option from the File dropdown will exit the current Rezonator session and bring the user back to the Opening Screen.
+ 
 ### 2.4.2 Edit Dropdown
 
- * The **Delete All** option will open another dropdown:
-
+  - The **Delete All** option will open another dropdown:
   - **Trail Chains** allows the user to delete all Trail Chains in the Rez file.
   - **Rez Chains** allows the user to delete all Rez Chains in the Rez file.
   - **Stacks** allows the user to delete all Stacks in the Rez file.
   - **Chains** allows the user to delete all Chains in the Rez file.
- 
- * The **Go To Line** option opens a text input box. The user can input a line number and their **Main Screen** will scroll to that location.
+  - The **Go To Line** option opens a text input box. The user can input a line number and their **Main Screen** will scroll to that location.
 
 ### 2.4.3 View Dropdown
 
 The **Window** option will open another dropdown:  
 
- * The Nav option will open another dropdown:  
+ - The **Nav** option will open another dropdown:  
    - **Left** will open/close the **List Window**  
    - **Right** will open/close the **Contents Window**  
    - **Nav** will open/close the **List Window** and the **Contents Window** 
    - **Tools** will open/close the **Tools Pane**  
    - **All** will open/close the **List and Contents window, and the Tools Pane.**   
+ - **Grid** will send the user to the **Grid Screen**.
  
- * **Search** will send the user to the **Search Screen** (if a Search has been done in the Rezonator session).  
-
- * **Grid** will send the user to the **Grid Screen**.  
- * The **Justify** option will open another dropdown:  
-
+ The **Justify** option will open another dropdown:  
   - **Left** will justify the **Tokens** to the left side of the screen.  
   - **Right** will justify the **Tokens** to the right side of the screen. 
   - **Center** will justify the **Tokens** to the center of the screen. 
- *  **Prose** option will open another dropdown:  
-
+ 
+ **Prose** option will open another dropdown:  
   - **Prose** will set the Tokens in a prose structure.  
   - **Grid** will set the Tokens in a grid structure. 
- * The **Hide** option will open another dropdown:  
 
+ The **Hide** option will open another dropdown:  
   - **Trail** will toggle the visibility of all Trail chains in the Rez file.
   - **Rez** will toggle the visibility of all Rez chains in the Rez file.
   - **Stack** will toggle the visibility of all Stack in the Rez file.
@@ -215,46 +218,43 @@ The **Window** option will open another dropdown:
 
 ### 2.4.4 Filter Dropdown
        
- * The **Filter** option will toggle on/off the **Filter Screen** (if any chains are **Picked** to be in the filter)
- * The **Pick** option will open another dropdown:
-
-  - **Rez** will **Pick** all Rez chains to be in the Filter
-  - **Trail** will **Pick** all Trail chains to be in the Filter
-  - **Stack** will **Pick** all Stacks to be in the Filter
- * The **Context** option will open another dropdown:
-
-  - **Above** will toggle the display of the Lines before the Picked Lines in the Filter Screen.
-  - **Between** will toggle the display of the Lines in between the Picked Lines in the Filter Screen.
-  - **Below** will toggle the display of the Lines after the Picked Lines in the Filter Screen.
- 
- * The **Clear** option will unpick all **Picked Chains**, clearing the Filter Screen, and sending the user back to the **Main Screen** if the Filter Screen was open
+  The **Filter** option will toggle on/off the **Filter Screen** (if any chains are **Picked** to be in the filter)
+  The **Pick** option will open another dropdown:
+   - **Rez** will **Pick** all Rez chains to be in the Filter
+   - **Trail** will **Pick** all Trail chains to be in the Filter
+   - **Stack** will **Pick** all Stacks to be in the Filter
+  The **Context** option will open another dropdown:
+   - **Above** will toggle the display of the Lines before the Picked Lines in the Filter Screen.
+   - **Between** will toggle the display of the Lines in between the Picked Lines in the Filter Screen.
+   - **Below** will toggle the display of the Lines after the Picked Lines in the Filter Screen.
+  The **Clear** option will unpick all **Picked Chains**, clearing the Filter Screen, and sending the user back to the **Main Screen** if the Filter Screen was open
 
 ## 2.4.5 Tools Dropdown
 
- * The **Search** option will open another dropdown:
+ The **Search** option will open another dropdown:
 
   - **Keyword** will open a dialog box for Rezonator’s **Search by Keyword** function
   - **Clear** will turn off the highlighting for the **Actively Searched Keywords** that occurs on the Main Screen, if (if a Search has been done in the Rezonator session).
 
- * The **Track** option will set the current **Mode** to **Track Mode**
+ The **Track** option will set the current **Mode** to **Track Mode**
 
- * The **Resonance** option will set the current **Mode** to **Resonance Mode**
+ The **Resonance** option will set the current **Mode** to **Resonance Mode**
 
- * The **Stack** option will open another dropdown:
+ The **Stack** option will open another dropdown:
 
   - The **Stacker** option will open another dropdown:
 
-   1. The **Turn** option will create a series of **Stacks** in the document using the **Unit** field marked as **Turn Delimiter**
-   2. The **Random** option will create a series of **Stacks** across the entire document
-   3. The **Sentence** option will create a series of **Stacks** using the **Unit** field makred as the **Participant**
+   - The **Turn** option will create a series of **Stacks** in the document using the **Unit** field marked as **Turn Delimiter**
+   - The **Random** option will create a series of **Stacks** across the entire document
+   - The **Sentence** option will create a series of **Stacks** using the **Unit** field makred as the **Participant**
 
   - The **Clip all stacks** option will create a folder to save a series of **Clip** files for each **Stack** in the document
 
 ### 2.4.6 Settings Dropdown
 
- * The **User** option allows the user to set a **Username** for the current chain creator.
+ The **User** option allows the user to set a **Username** for the current chain creator.
 
- * The **Zoom** option will open another dropdown: 
+ The **Zoom** option will open another dropdown: 
 
    - **Zoom-in** will increase the **Font Size, Line Height, and Column Width**.
    - **Zoom-out** will decrease the **Font Size, Line Height, and Column Width**.
@@ -263,20 +263,19 @@ The **Window** option will open another dropdown:
    - **Tall** will increase the **Line Height**.
    - **Short** will decrease the **Line Height**.
 
- * The **Theme** option will toggle the current **Display Theme** between **Light** and **Dark**.
+ The **Theme** option will toggle the current **Display Theme** between **Light** and **Dark**.
 
- * The **Language** option will open another dropdown, allowing the user to set their **User language**
+ The **Language** option will open another dropdown, allowing the user to set their **User language**
 
- * The **Autosave** option will open another dropdown, allowing the user to set the timing intervals at which Rezonator will **Autosave** the current Rezonator session, or to disable Autosaving.
+ The **Autosave** option will open another dropdown, allowing the user to set the timing intervals at which Rezonator will **Autosave** the current Rezonator session, or to disable Autosaving.
 
- * The **Advanced** option will open another dropdown:
-
+ The **Advanced** option will open another dropdown:
   - The **Developer** option will toggle the visibility of developer variables in the **Main Screen**
 
 ### 2.4.7 Help Dropdown
 
- * The **Help** option will toggle the display of the **Help Menu** on the right side of the **Main Screen**.
- * The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
- * The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
+ The **Help** option will toggle the display of the **Help Menu** on the right side of the **Main Screen**.
+ The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
+ The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
  
 **Next page:** <u><a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a></u>
