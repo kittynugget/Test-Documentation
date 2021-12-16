@@ -7,7 +7,6 @@ The main screen of Rezonator is our visual representation of the text imported d
 ![image45](https://user-images.githubusercontent.com/34769184/132994278-f4c43f7d-36f2-4c4b-a626-cf16ab463f9e.png)
 
 The main screen consists of four major sections:
-
 * The Workspace where the document is displayed and edited
 * The Tool Pane is the vertical section on the right
 * The Navigation Window is above both of those
@@ -278,4 +277,5 @@ The **Window** option will open another dropdown:
  * The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
  * The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
 
+ **Next page:** 
 <a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a>
