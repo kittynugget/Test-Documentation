@@ -9,7 +9,7 @@ Rezonator features three different working modes that are designed to perform sp
 
 ## 3.1 Tag Mode
 
-**Tag Mode can be used to quickly apply tags to **Tokens, Chunks, Units, Chains, Entries**, and **Tree Links**.**
+Tag Mode can be used to quickly apply tags to **Tokens**, **Chunks**, **Units**, **Chains**, **Entries**, and **Tree Links**.
 
 ### 3.1.1 Functionality of Tag Mode
 
