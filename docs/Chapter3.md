@@ -6,24 +6,14 @@ Rezonator features three different working modes that are designed to perform sp
 
 ## 3.1 Tag Mode
 
-### 3.1.1 Activating Tag Mode
-
 Tag Mode can be activated by clicking the **Tag Mode** button in the **Tool** flyout.
 
-![image7](https://user-images.githubusercontent.com/34769184/130827427-75837856-c73b-4a90-bb5f-bb4d00958f75.png)
-
-When not in Unit Mode, it can be activated by a **Mouse Click** on the Unit Mode Button.
-
-### 3.1.2 Functionality of Tag Mode
+![tag image](https://user-images.githubusercontent.com/46977535/146447595-ca6611e5-ff74-4633-98a3-ace075a419a7.png)
 
 Tag Mode can be used to quickly apply tags to **Tokens, Chunks, Units, Chains, Entries**, and **Tree Links**. To view all fields and their respective tags, click on the **Tag** pane. While in the Tag pane, clicking on a **Field** in the left pane will reveal all of its **Tags** in the right pane.
 
 To view all of the **Fields** and **Tags** that belong to a **Token, Unit,** or **Tree Link**, enable Word Tip by selecting it from the **View** dropdown in the Menu Bar. To start applying quick tags, select a **Field** in the left pane and also select one of its **Tags** in the right pane. With Word Tip enabled, hover the mouse over a **Token, Unit,** or **Tree Link** and see the highlighted field that has been selected in the Tag pane. Clicking on the Token/Unit/Tree Link will overwrite the selected field’s tag value with the tag selected in the Tag pane.
 
-1. When the One-to-many/one-to-one Button is set to One-to-one, the Unit tab’s Contents Window will display Unit Level Contents
-2. The Unit Level Contents are listed for all visible units in the document, and are split into columns
-  * IMAGE
-  * The Button layout is identical to the Token Level Contents Window: each column can be clicked to open a dropdown, and each column includes a radio button that can be clicked to set the field to be the participant field.
 
 ## 3.2 Track Mode
 
@@ -33,7 +23,7 @@ To view all of the **Fields** and **Tags** that belong to a **Token, Unit,** or 
 
 Track Mode can be activated by a **Mouse Click** on the **Track Tool Pane Button:**
 
-IMAGE
+![track selection](https://user-images.githubusercontent.com/46977535/146448030-402917bb-0738-4c6c-b037-cf6fb58136d5.png)
 
 Alternatively, Trail Mode can be activated by pressing the “T” Key on your keyboard.
 When Trail Mode is active, the Trail Tool Pane Button will be highlighted.
@@ -108,7 +98,7 @@ IMAGE
 
 Resonance Mode can be activated by a **Mouse Click** on the **Resonance Tool Pane Button**:
 
-![image17](https://user-images.githubusercontent.com/34769184/130874389-4851aed4-d3aa-4cce-80bb-c85a430a3900.png)
+![rez selection](https://user-images.githubusercontent.com/46977535/146448053-86b41b0c-9d7d-43c3-bef5-deee29aeca13.png)
 
 Alternatively, Resonance Mode can be activated by pressing the **“R” Key** on your keyboard.
 When Resonance Mode is active, the Resonance Tool Pane Button will be highlighted.
@@ -260,13 +250,13 @@ More options for Stacks can be accessed with a **Right Mouse Click** on a chain�
 
 ## 3.5 How to Make Chunks
 
-**Description.**
-**Note:** Stacks do not have a single Mode attributed to them, and are instead accessible in any Mode.
+**Note:** Chunks do not have a single Mode attributed to them, and are instead accessible in any Mode.
 
 ### 3.5.1 Accessing Chunk Creation
 
-1. As noted above, Stacks can be made in any Mode. For now, we’ll show how to access Tag Mode:
-  * Track Mode can be activated by a **Left Mouse Click** on the **Tag Tool Pane Button**:
+To create a chunk the user must click and drag horizonatally across tokens then release. This creates a new token-like data structure called a chunk that can be added to chains and annotated similarly to how tokens behave.
+
+-As noted above, Chunks can be made in any Mode. However, when making chunks outside of Tag mode the chunk will automatically be added to a chain as if it was clicked. 
 
 ## 3.6 Merging Chains
 
