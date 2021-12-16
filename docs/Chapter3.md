@@ -41,8 +41,7 @@ When a chain is focused, Left Mouse Clicking on other words in the discourse wil
 If you want to no longer add words to a chain or start a new chain, you will need to **Unfocus** the currently focused chain. This is done multiple ways:
 
  * Left Mouse Clicking on the **Empty Space** in the Discourse.
- * Pressing the **Escape** key on your keyboard.
- * Pressing the **Enter** key on your keyboard.
+  * Pressing the **Escape** or **Enter** key on your keyboard.
 
 In order to **Refocus** a previous chain, you must Left Mouse Click on a word already within the chain, or select that chain in the navigation window.
 
@@ -122,8 +121,7 @@ Once a Resonance Chain is created, it will be automatically **Focused**. When a 
 If you want to no longer add words to a chain or start a new chain, you will need to **Unfocus** the currently focused chain. This is done multiple ways:
 
  * Left Mouse Clicking on the Empty Space in the Discourse.
- * Pressing the Escape key on your keyboard.
- * Pressing the Enter key on your keyboard.
+  * Pressing the **Escape** or **Enter** key on your keyboard.
 
 In order to **Refocus** a previous chain, you must Left Mouse Click on a word already within the chain.
 
@@ -188,54 +186,38 @@ IMAGE
 
 ### 3.4.1 Accessing Stack Creation
 
-As noted above, Stacks can be made in either Track Mode or Resonance Mode. For now, we’ll show how to access Track Mode:
+Stacks can be used to annotate and organize units of the discourse. A Stack is a set of units all highlighted the same color, which visualizes their **Links**. A Stack looks like this: 
 
- * Track Mode can be activated by a **Left Mouse Click** on the **Trail Tool Pane Button**:
+ ![stack](https://user-images.githubusercontent.com/46977535/146449613-6db532f2-fbd7-4309-871f-adb5c5aa515a.png)
 
-  * IMAGE
-  * When Track Mode is active, the Track Tool Pane Button will be highlighted like so:
-  * IMAGE
-  * Alternatively, Track Mode can be activated by pressing the “T” Key on your keyboard.
+You can begin a Stack by Left Mouse Clicking on the **Speaker Label** of a line in the discourse, creating the first Link in the chain. Once a Stack is created, it will be automatically **Focused**. When a Stack is focused, Left Mouse Clicking on other Speaker Labels in the discourse will add those lines to the focused Stack.
 
-### 3.4.2
-
-1. Stacks can be used to annotate and organize units of the discourse. A Stack is a set of units all highlighted the same color, which visualizes their **Links**. A Stack looks like this: 
-IMAGE
- 
-2. You can begin a Stack by Left Mouse Clicking on the **Speaker Label** of a line in the discourse, creating the first Link in the chain.
-IMAGE
-
-3. Once a Stack is created, it will be automatically **Focused**. When a Stack is focused, Left Mouse Clicking on other Speaker Labels in the discourse will add those lines to the focused Stack.
-IMage
-
-4. If you want to no longer add words to a chain or start a new chain, you will need to **Unfocus** the currently focused chain. This can be done multiple ways:
+If you want to no longer add words to a chain or start a new chain, you will need to **Unfocus** the currently focused chain. This can be done multiple ways:
   * Left Mouse Clicking on the **Empty Space** in the workspace.
   * Pressing the **Escape** or **Enter** key on your keyboard.
 
-5. In order to **Refocus** a previous Stack, you must Left Mouse Click on a Speaker Label already within the Stack.
+In order to **Refocus** a previous Stack, you must Left Mouse Click on a Speaker Label already within the Stack.
 
-6. To **Delete a Link** within a Stack, Left Mouse Click on the unit you want to remove from the Stack, then press the **Delete Key** on your keyboard. This will remove the selected unit from the focused Stack.
+To **Delete a Link** within a Stack, Left Mouse Click on the unit you want to remove from the Stack, then press the **Delete Key** on your keyboard. This will remove the selected unit from the focused Stack.
 
 ### 3.4.3 Stack Pane
 
-1. There are 2 buttons on the Tab: **Filter Chains Button**, & **Visibility Button**
+There are 2 buttons on the Tab: **Filter Chains Button**, & **Visibility Button**
   * The Filter Chains Button (filter cone), when activated by a Left Mouse Click, will add all Stacks to the list of chains shown on the **Filter Screen**.
 IMAGE
   * The Visibility Button (eyeball), when activated by a Left Mouse Click, will toggle the visibility of all Stacks on the main screen.
 
 ### 3.4.4 Functionality of the Stack Pane
 
-1. While in Stack Mode, the List Window will display a list of all the Stack Chains you have created, as shown here:
-  * IMAGE
+While in Stack Mode, the List Window will display a list of all the Stack Chains you have created, as shown here:
   * **Note**: To the right of each Stack’s name is a text readout of the units it contains.
 
-2. Another way to Focus a Stack is with a Left Mouse Click on the Stack’s row within the Stack Pane
+Another way to Focus a Stack is with a Left Mouse Click on the Stack’s row within the Stack Pane
  
-3. On the left side of the Stack’s name is the **Pick Toggle Button**. The Pick Toggle Button will add that Stack to the list of chains shown on the **Filter Screen**.
+On the left side of the Stack’s name is the **Pick Toggle Button**. The Pick Toggle Button will add that Stack to the list of chains shown on the **Filter Screen**.
 
-4. Also on the left side of the Stack’s name is the **Visibility Button**. This can be used to toggle the visibility of specific Stacks.
+Also on the left side of the Stack’s name is the **Visibility Button**. This can be used to toggle the visibility of specific Stacks.
 More options for Stacks can be accessed with a **Right Mouse Click** on a chain’s row (CTRL & Mouse Click on Mac)
-  * IMAGE
   * **Rename** lets you input a string to name the selected Stack.
   * **Recolor** lets you choose a new color for the selected Stack.
   * **Delete** will delete all of the links of the selected Stack, eliminating the whole chain.
@@ -243,7 +225,6 @@ More options for Stacks can be accessed with a **Right Mouse Click** on a chain�
 ### 3.4.5 How to use the Stack Contents Window
 
  * With a Stack focused, the **Contents Window** will display the contents of the focused Stack
-  * IMAGE
   * The Contents Window (One-to-many) displays the individual units within a Stack, showing their fields and tags (By default, the visible fields for one-to-many are **unitSeq, participant**, and **utterance**, and **gapUnits**).
   * The Contents of any Stack can be sorted using the **Sort Buttons** next to the column’s name.
   * The Contents Window (One-to-one) displays the fields and tags for each Stack as a whole.
