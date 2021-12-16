@@ -277,5 +277,6 @@ The **Window** option will open another dropdown:
  * The **Docs** option will link the user to the Rezonator website’s “Documentation” page in their default web browser.
  * The **About** option will link the user to the Rezonator website’s “About” page in their default web browser.
 
- **Previous page** <u><a href="{{site.baseurl}}/Chapter1">Chapter 1: How to start and manage files</a></u>       **Next page:** 
-<a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a>
+**Previous page:** <u><a href="{{site.baseurl}}/Chapter1">Chapter 1: How to start and manage files</a></u>
+ 
+**Next page:** <u><a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a></u>
