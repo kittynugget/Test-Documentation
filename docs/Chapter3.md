@@ -41,7 +41,7 @@ When a chain is focused, Left Mouse Clicking on other words in the discourse wil
 If you want to no longer add words to a chain or start a new chain, you will need to **Unfocus** the currently focused chain. This is done multiple ways:
 
  * Left Mouse Clicking on the **Empty Space** in the Discourse.
-  * Pressing the **Escape** or **Enter** key on your keyboard.
+ * Pressing the **Escape** or **Enter** key on your keyboard.
 
 In order to **Refocus** a previous chain, you must Left Mouse Click on a word already within the chain, or select that chain in the navigation window.
 
@@ -75,7 +75,6 @@ The Visibility Button (eyeball), when activated by a Left Mouse Click, will togg
 
 3. The **Pick Toggle** Button will add that Trail to the list of chains shown on the Filter Screen.
 
-IMAGE
 
 4. More options for Trails can be accessed with a **Right Mouse Click** on a trail’s row (CTRL & Mouse Click on Mac) INSERT IMAGE
   * **Rename** lets you input a string to name the selected Trail Chain.
@@ -83,7 +82,6 @@ IMAGE
   * **Delete** will delete all of the links of the selected Trail Chain, eliminating the whole chain.
 
 5. With a Trail focused, the Contents Window will display the contents of the focused Trail
-  * IMAGE
   * The Contents Window (One-To-Many) displays the individual Words within a Trail Chain, showing their **Unit Sequence, Token Order,** and **Text**, and the remaining three columns display entry level fields that the user can change.
   * The Contents Window (One-To-One) displays the chain level fields that the user selects and the values stored for those fields in each Trail.
   - The Contents of any Trail Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
@@ -121,7 +119,7 @@ Once a Resonance Chain is created, it will be automatically **Focused**. When a 
 If you want to no longer add words to a chain or start a new chain, you will need to **Unfocus** the currently focused chain. This is done multiple ways:
 
  * Left Mouse Clicking on the Empty Space in the Discourse.
-  * Pressing the **Escape** or **Enter** key on your keyboard.
+ * Pressing the **Escape** or **Enter** key on your keyboard.
 
 In order to **Refocus** a previous chain, you must Left Mouse Click on a word already within the chain.
 
@@ -160,8 +158,6 @@ Another way to Focus a Resonance Chain is with a Left Mouse Click on the chain�
 
 The **Pick Toggle** Button will add that Resonance Chain to the list of chains shown on the Filter Screen.
 
-IMAGE 
-
 More options for Resonance Chains can be accessed with a **Right Mouse Click** on a chain’s row (CTRL Click on Mac)
 
 On the left side of the Rez Chain’s name is the Pick Toggle Button. The **Pick Toggle Button** will add that Rez Chain to the list of chains shown on the Filter Screen.
@@ -176,13 +172,11 @@ More options for Rez Chains can be accessed with a **Right Mouse Click** on a ch
 
  * The Contents Window (One-To-Many) displays the individual Words within a Resonance Chain, showing their **Unit Sequence, Token Order**, and **Text**, and the remaining three columns display entry level fields that the user can change.
  * The Contents Window (One-To-One) displays the chain level fields that the user selects and the values stored for those fields in each Resonance Chain.
-  * The Contents of any Resonance Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
-
-IMAGE
+ * The Contents of any Resonance Chain can be sorted using the **Sort Buttons** next to the column’s name. When the arrow is facing right it is default sorted based on discourse order. Clicking on the sort button will change it to alphanumeric descending, clicking another time will result in alphanumeric ascending. Clicking again from this point will restore the default sort.
 
 ## 3.4 How to Make Stacks
 
-**Stacks** are the third type of **Chains** within Rezonator, the other two being **Resonance Chains** and **Trails**. The main purpose of Stacks is to allow the user to annotate entire lines in the discourse, instead of annotating word by word. **Note**: Stacks do not have a single **Mode** attributed to them, and are instead accessible in both **Resonance Mode** and **Track Mode**.
+**Stacks** are the third type of **Chain** within Rezonator, the other two being **Resonance Chains** and **Trails**. The main purpose of Stacks is to allow the user to annotate entire lines in the discourse, instead of annotating word by word. **Note**: Stacks do not have a single **Mode** attributed to them, and are instead accessible in both **Resonance Mode** and **Track Mode**.
 
 ### 3.4.1 Accessing Stack Creation
 
@@ -204,7 +198,6 @@ To **Delete a Link** within a Stack, Left Mouse Click on the unit you want to re
 
 There are 2 buttons on the Tab: **Filter Chains Button**, & **Visibility Button**
   * The Filter Chains Button (filter cone), when activated by a Left Mouse Click, will add all Stacks to the list of chains shown on the **Filter Screen**.
-IMAGE
   * The Visibility Button (eyeball), when activated by a Left Mouse Click, will toggle the visibility of all Stacks on the main screen.
 
 ### 3.4.4 Functionality of the Stack Pane
@@ -231,13 +224,13 @@ More options for Stacks can be accessed with a **Right Mouse Click** on a chain�
 
 ## 3.5 How to Make Chunks
 
-**Note:** Chunks do not have a single Mode attributed to them, and are instead accessible in any Mode.
+**Note: Chunks do not have a single Mode attributed to them, and are instead accessible in any Mode.**
 
 ### 3.5.1 Accessing Chunk Creation
 
 To create a chunk the user must click and drag horizonatally across tokens then release. This creates a new token-like data structure called a chunk that can be added to chains and annotated similarly to how tokens behave.
 
--As noted above, Chunks can be made in any Mode. However, when making chunks outside of Tag mode the chunk will automatically be added to a chain as if it was clicked. 
+  - As noted above, Chunks can be made in any Mode. However, when making chunks outside of Tag mode the chunk will automatically be added to a chain as if it was clicked. 
 
 ## 3.6 Merging Chains
 
