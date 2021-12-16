@@ -172,6 +172,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
 ### 2.3.11 Search
 
  **Left Pane**: Displays the list of all the searches within the current file. Searches can be selected here for further analysis in the right pane.
+ 
  **Right Pane**: 
   * **One-To-One / One-To-Many**: Shows the user all the found instances of the selected searched words, along with prior and post context to the found words.
 
@@ -260,7 +261,7 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
  - The **Language** option will open another dropdown, allowing the user to set their **User language**
  - The **Autosave** option will open another dropdown, allowing the user to set the timing intervals at which Rezonator will **Autosave** the current Rezonator session, or to disable Autosaving.
  - The **Advanced** option will open another dropdown:
-  - The **Developer** option will toggle the visibility of developer variables in the **Main Screen**
+   - The **Developer** option will toggle the visibility of developer variables in the **Main Screen**
 
 ### 2.4.7 Help Dropdown
 
