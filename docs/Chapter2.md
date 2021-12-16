@@ -239,11 +239,11 @@ Displays whether a filter is actively being viewed and can be used to toggle it 
  - The **Track** option will set the current **Mode** to **Track Mode**
  - The **Resonance** option will set the current **Mode** to **Resonance Mode**
  - The **Stack** option will open another dropdown:
-  - The **Stacker** option will open another dropdown:
-   - The **Turn** option will create a series of **Stacks** in the document using the **Unit** field marked as **Turn Delimiter**
-   - The **Random** option will create a series of **Stacks** across the entire document
-   - The **Sentence** option will create a series of **Stacks** using the **Unit** field makred as the **Participant**
-  - The **Clip all stacks** option will create a folder to save a series of **Clip** files for each **Stack** in the document
+   - The **Stacker** option will open another dropdown:
+     - The **Turn** option will create a series of **Stacks** in the document using the **Unit** field marked as **Turn Delimiter**
+     - The **Random** option will create a series of **Stacks** across the entire document
+     - The **Sentence** option will create a series of **Stacks** using the **Unit** field makred as the **Participant**
+   - The **Clip all stacks** option will create a folder to save a series of **Clip** files for each **Stack** in the document
 
 ### 2.4.6 Settings Dropdown
 
