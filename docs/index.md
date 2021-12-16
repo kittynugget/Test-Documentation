@@ -2,9 +2,7 @@
 description: Dynamics of Human Engagement
 ---
 
-![unnamed](https://user-images.githubusercontent.com/77072787/133002427-7aa061ac-c1ed-4c3f-8037-d204a75bd726.png)
-
-
+![Frontpage](https://user-images.githubusercontent.com/46977535/146440686-e42fc9ec-2ef4-48b6-a879-692b496c177e.png)
 
 Table of Contents
 ====
