@@ -67,16 +67,17 @@ To toggle whether the selected search should filter the Main Screen, click the *
 
 The **Filter Screen** is a modified version of the Main Screen, showing only Chains that have been **Picked** for the Filter. Resonance Chains, Trails, and Stacks can all be Picked and displayed in the Filter Screen.
 * Here is an example of a single Chain in the Filter Screen:
-IMAGE
+
+![Screen Shot 2021-12-17 at 12 20 11 PM (2)](https://user-images.githubusercontent.com/36257165/146603274-e40e358b-ca3e-4fff-9308-5d29866ff60c.png)
 
 ### 4.3.1 Activating the Filter Screen
 
 In order for the Filter Screen to be activated, at least one Chain must be Picked for the Filter. An example of a picked Chain is shown below:
-IMAGE
+<img width="534" alt="Screen Shot 2021-12-17 at 12 26 12 PM" src="https://user-images.githubusercontent.com/36257165/146603932-6ae6870e-2199-4574-ab00-c27920bd1913.png">
 
 There are 2 ways to activate the Filter Screen: 
 * Click on the **Filter Button in the Tool Pane**.
-* IMAGE
+![Screen Shot 2021-12-17 at 12 24 27 PM (2)](https://user-images.githubusercontent.com/36257165/146603689-179f5111-62fc-447b-88d5-2e08ff967f46.png)
 * Or you can press **CTRL** and **P** on the keyboard. (**Command** and **P** for Mac)
 
 ### 4.3.2 Functionality of the Filter Screen
