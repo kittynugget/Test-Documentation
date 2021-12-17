@@ -35,7 +35,7 @@ The Contents Window, which is the top-right window, displays the contents of the
 
 3. Both of these methods will show the Search Window.
 
-IMAGE
+![Screen Shot 2021-12-17 at 12 11 25 PM (2)](https://user-images.githubusercontent.com/36257165/146602359-bb0d42ea-0287-4aa4-afe3-abbfe1f192d0.png)
   
 ### 4.2.2 Functionality of the Search Window
 
@@ -55,7 +55,7 @@ The search is also saved and can be toggled through the **Search Tab**.
 
 ### 4.2.3 Functionality of the Seach Tab
 
-IMAGE
+![Search - happy sbc035](https://user-images.githubusercontent.com/36257165/146602454-5f2052f8-ace3-477b-ae9d-54702b7e7569.gif)
 
 The **Search tab** is used to keep a record of each search that has been made. On the left pane of the Search tab, there will be a list of every term that has been searched in the current file. This window also contains another button to create a new search.
 
