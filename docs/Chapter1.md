@@ -2,7 +2,7 @@
 title: How to Start and Manage Files
 description: 
 ---
-1.0	How to start
+CHapter 1:	How to start
 =====
 **To open Rezonator, double click on the Rezonator icon on your desktop or select the icon from the Start menu. The Open screen will be displayed:**
 
