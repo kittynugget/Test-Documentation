@@ -15,3 +15,6 @@ Descriptions of the Main Screen and the various sections that the user has acces
 	
 ### <u><a href="{{site.baseurl}}/Chapter3">Chapter 3: Annotation Tools</a></u>
 Defines the tools that allow you to link, Tag, and mark up your data. Learn about Stacks, Trails, and Resonance Chains and how to further their analyisis with tags.
+
+### <u><a href="{{site.baseurl}}/Chapter4">Chapter 4: Functionalities of Rezonator</a></u>
+Describes the plethora of functions available to users that enhance the data they have already created.
