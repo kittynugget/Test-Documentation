@@ -97,18 +97,18 @@ All of the Contexts can be activated at the same time, or any combination of the
 IMAGE
 
 * Functionality
-* * Here you can create a group of stacks called a **Show**. These shows can be played using the sequence of stacks listed in the right pane to filter each stack on the main screen.
+    * Here you can create a group of stacks called a **Show**. These shows can be played using the sequence of stacks listed in the right pane to filter each stack on the main screen.
 * How to Use
-* * Hitting the green **Create Show** button on the left side will create a new show that is empty to start. Then you can add stacks to that show using the right pane’s green **Add to show** button. The show can be started by hitting the play buttons on either side, and the arrow buttons will allow the user to cycle through the stacks when the show is playing.
+    * Hitting the green **Create Show** button on the left side will create a new show that is empty to start. Then you can add stacks to that show using the right pane’s green **Add to show** button. The show can be started by hitting the play buttons on either side, and the arrow buttons will allow the user to cycle through the stacks when the show is playing.
 
 ### 4.4.2 Tree Tab
 
 IMAGE
 
 * Functionality
-* * The Tree pane allows for you to mark up dialogic syntax in units or stacks. The tokens in each tree are broken out into leafs that can be added to a tree. You can tag the links between the tokens for more analysis on the Tree level
+    * The Tree pane allows for you to mark up dialogic syntax in units or stacks. The tokens in each tree are broken out into leafs that can be added to a tree. You can tag the links between the tokens for more analysis on the Tree level
 * How to Use
-* * A tree can be created by right clicking on a unit or a stack and choosing the **Create tree** option. This will spawn a tree in the tree pane with clickable tokens that create the tree when clicked upon. If nothing is selected the token will go to level 0 and become a root. That token will become selected and, when clicking on the next token, will rise to the next available level. You can click on open space to deselect and delete entries and links from the tree. Tree links can be tagged by right clicking on the link arrows between entries, and can also be tagged via the Tag tool. Trees can have multiple roots, and an existing root can also be added to any part of the tree that isn’t branching from that root.
+    * A tree can be created by right clicking on a unit or a stack and choosing the **Create tree** option. This will spawn a tree in the tree pane with clickable tokens that create the tree when clicked upon. If nothing is selected the token will go to level 0 and become a root. That token will become selected and, when clicking on the next token, will rise to the next available level. You can click on open space to deselect and delete entries and links from the tree. Tree links can be tagged by right clicking on the link arrows between entries, and can also be tagged via the Tag tool. Trees can have multiple roots, and an existing root can also be added to any part of the tree that isn’t branching from that root.
 
 IMAGE
 
@@ -117,31 +117,31 @@ IMAGE
 IMAGE
 
 * Functionality
-* * The Tag tab is used to display every one of the document’s annotation fields along with its associated tag set. The fields are separated into four groups: Doc, Chain, Chunk, and Link. The Doc and Chain groups are also further separated into One-to-many and One-to-one groups.
+    * The Tag tab is used to display every one of the document’s annotation fields along with its associated tag set. The fields are separated into four groups: Doc, Chain, Chunk, and Link. The Doc and Chain groups are also further separated into One-to-many and One-to-one groups.
 * How to Use
-* * In the top right of the right pane are a series of buttons where you can select which group of fields you want to view (Doc, Chain, Chunk, or Link). Select the group you want to view, and the left pane will show a list of fields for that group. Click on a field in the left pane to view its tag set in the right pane. To create a new field, scroll down to the bottom of the left pane and click **New field**. To add a tag to a field’s tag set, scroll down to the bottom of the right pane and click **New tag**.
-* * If you select a field in the left pane and also select one of its tags in the right pane, you can quickly apply your selected field/tag pair to nodes in the Main Screen. To do this, switch your tool to the Tag tool (see: 3.1 Tag Mode) and then click on tokens, units, chunks, or chains in the Main Screen to apply the field/tag selection.
-* * The Tag tab can also be used to save or load Tag Schema files, also known as Tag Json files. Clicking the **Save tag.json** button will capture every field and tag set in the file and save it to a JSON file. Clicking the **Load tag.json** button will allow you to import new fields and tags from other JSON files.
+    * In the top right of the right pane are a series of buttons where you can select which group of fields you want to view (Doc, Chain, Chunk, or Link). Select the group you want to view, and the left pane will show a list of fields for that group. Click on a field in the left pane to view its tag set in the right pane. To create a new field, scroll down to the bottom of the left pane and click **New field**. To add a tag to a field’s tag set, scroll down to the bottom of the right pane and click **New tag**.
+    * If you select a field in the left pane and also select one of its tags in the right pane, you can quickly apply your selected field/tag pair to nodes in the Main Screen. To do this, switch your tool to the Tag tool (see: 3.1 Tag Mode) and then click on tokens, units, chunks, or chains in the Main Screen to apply the field/tag selection.
+    * The Tag tab can also be used to save or load Tag Schema files, also known as Tag Json files. Clicking the **Save tag.json** button will capture every field and tag set in the file and save it to a JSON file. Clicking the **Load tag.json** button will allow you to import new fields and tags from other JSON files.
 
 ### 4.4.4 Clique Tab
 
 IMAGE
 
 * Functionality
-* * The Clique tab is used to highlight areas of dialogue with high resonance. A Clique is defined as a group of Resonance chains that are connected through their shared unit(s).
+    * The Clique tab is used to highlight areas of dialogue with high resonance. A Clique is defined as a group of Resonance chains that are connected through their shared unit(s).
 * How to Use
-* * The Clique tab is a read-only tab, so it can only be used to view the Cliques that you have generated. To create Cliques, create any amount of Resonance chains in the Main Screen. Any time two or more Resonance chains contain entries located on a shared unit, the chains will be grouped into the same Clique. Cliques are therefore very dynamic, and can change any time a chain is added to or removed from.
-* * To view the Resonance chains within a Clique, click on the Clique’s name in the left pane. The selected Clique will display its Resonance chains in the right pain. For each Resonance chain, you can view its Chain Order list in the right pane. The Chain Order list shows which Resonance chains “follow” the Resonance chain for that row. These are Resonance chains that will be pushed from the alignment of the Resonance chain for that row.
+    * The Clique tab is a read-only tab, so it can only be used to view the Cliques that you have generated. To create Cliques, create any amount of Resonance chains in the Main Screen. Any time two or more Resonance chains contain entries located on a shared unit, the chains will be grouped into the same Clique. Cliques are therefore very dynamic, and can change any time a chain is added to or removed from.
+    * To view the Resonance chains within a Clique, click on the Clique’s name in the left pane. The selected Clique will display its Resonance chains in the right pain. For each Resonance chain, you can view its Chain Order list in the right pane. The Chain Order list shows which Resonance chains “follow” the Resonance chain for that row. These are Resonance chains that will be pushed from the alignment of the Resonance chain for that row.
 
 ### 4.4.5 Translation Tab
 
 IMAGE
 
 * Functionality
-* * The Translation tab is used to view a per-unit translation of the imported file. This tab will only be accessible if a unit field has been set as “Translation” during the import process.
+    * The Translation tab is used to view a per-unit translation of the imported file. This tab will only be accessible if a unit field has been set as “Translation” during the import process.
 * How to Use
-* * The Clique tab is a read-only tab, so it can only be used to view the Cliques that you have generated. To create Cliques, create any amount of Resonance chains in the Main Screen. Any time two or more Resonance chains contain entries located on a shared unit, the chains will be grouped into the same Clique. Cliques are therefore very dynamic, and can change any time a chain is added to or removed from.
-* * When importing your file, use the Import Fields window on the Import Screen (see 1.5 Import Screen) to set any unit-level field to be Translation under the Special Fields column. Once the file has been imported, the Translation tab will be visible on the Main Screen. You can scroll through the units in the left pane and view each translation in the right pane.
+    * The Clique tab is a read-only tab, so it can only be used to view the Cliques that you have generated. To create Cliques, create any amount of Resonance chains in the Main Screen. Any time two or more Resonance chains contain entries located on a shared unit, the chains will be grouped into the same Clique. Cliques are therefore very dynamic, and can change any time a chain is added to or removed from.
+    * When importing your file, use the Import Fields window on the Import Screen (see 1.5 Import Screen) to set any unit-level field to be Translation under the Special Fields column. Once the file has been imported, the Translation tab will be visible on the Main Screen. You can scroll through the units in the left pane and view each translation in the right pane.
 
 ## 4.5 Audio
 
