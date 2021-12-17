@@ -1,10 +1,12 @@
 ---
-title: Working Modes
+title: Annotation tools
 description: 
 ---
 
 **Previous page:** <u><a href="{{site.baseurl}}/Chapter2">Chapter 2: Overview of Main Screen</a></u>
 
+3	Annotation tools
+=====
 Rezonator features three different working modes that are designed to perform specific tasks. The modes can be accessed through the box on the right upper corner of the screen.
 
 ## 3.1 Tag Mode
